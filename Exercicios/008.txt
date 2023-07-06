@@ -1,0 +1,1 @@
+Faca um programa que leia um numero inteiro qualquer e mostre na sua tela a sua tabuada
