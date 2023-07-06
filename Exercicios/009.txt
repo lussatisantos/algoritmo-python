@@ -1,0 +1,4 @@
+Crie um programa que leia quanto uma pessoa tem na carteira e mostre quantos dolares ela pode comprar
+
+Considere 1 USD = 825,50 AOA
+Valor baseado na cotacao real de 6 de Julho de 2023
