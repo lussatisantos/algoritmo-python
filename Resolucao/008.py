@@ -1,7 +1,7 @@
 num = int(input('Digite um numero para fazer a sua tabuada: '))
 
 if num == 0:
-    print('A tabuada de 0 sera 0 em todos numeros que multiplicarem por ele')
+    print('A tabuada de 0 sera 0 a todas combinacoes possiveis')
 else:
     
     print('=============')
