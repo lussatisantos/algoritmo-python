@@ -6,6 +6,6 @@ aluno3 = input('Digite o nome do terceiro aluno: ')
 aluno4 = input('Digite o nome do quarto aluno: ')
 
 sorteio = [aluno1, aluno2, aluno3, aluno4]
-
+random.shuffle(sorteio)
 print('A ordem de apresentacao do trabalho sera ')
 print(sorteio)
