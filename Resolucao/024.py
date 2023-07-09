@@ -1,0 +1,2 @@
+nom = input('Digite algo: ')
+
