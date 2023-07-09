@@ -1,3 +1,3 @@
 nome = str(input('Digite o seu nome completo: ')).strip().split()
 
-print(primeiro)
+print('O seu primeiro nome: {}' .format(nome[0]))
