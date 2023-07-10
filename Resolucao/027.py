@@ -5,4 +5,4 @@ if velocidade<=80:
 else:
     multa = velocidade - 80
     print('Voce foi multado por excesso de velocidade permitida de 80km/h')
-    print('A sua multa esta avaliada em {} AOA' .format(multa*140))
+    print('A sua multa esta avaliada em {} Kz' .format(multa*140))
