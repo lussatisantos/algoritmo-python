@@ -1,0 +1,1 @@
+Desenvolva um programa que pergunte a distancia de uma viagem em km. Calcule o preco da passagem, cobrando AOA 0.50 por km para viagens de ate 200km e AOA 0.45 para viagens mais longas
