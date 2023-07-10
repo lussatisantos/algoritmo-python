@@ -9,6 +9,6 @@ if num>5:
     print('Numero invalido, tente de 0 a 5')
 else:
     if adivinha == num:
-        print('PARABENS, voce ganhou o jogo, eu pensei em!!!!')
+        print('PARABENS, voce ganhou o jogo, eu tambem pensei em {} !!!!' .format(adivinha))
     else:
-        print('Voce perdeu, tente novamente!!!')
+        print('Voce perdeu, eu pensei em {}, tente novamente!!!' .format(adivinha))
