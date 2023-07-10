@@ -1,4 +1,4 @@
 Escreva um programa que eia a velocidade de um carro.
 Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que foi multado.
 
-A multa vai custar R$7 por cada Km acima do limite
+A multa vai custar AOA 140 por cada Km acima do limite
