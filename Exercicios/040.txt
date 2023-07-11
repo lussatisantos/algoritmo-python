@@ -1,0 +1,4 @@
+Faca um algoritmo qu mostre que tipo de triangulo sera formado:
+    - Equilatero: todos os lados iguais
+    - Isosceles: dois lados iguais
+    - Escaleno: todos os lados diferentes
