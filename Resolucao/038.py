@@ -8,3 +8,6 @@ valor = ano_actual - ano
 if valor <= 9:
     print('O atleta tem {} anos' .format(valor))
     print('Classificacao: MIRIM')
+elif valor <= 14:
+    print('O atleta tem {} anos' .format(valor))
+    print('Classificacao: INFANTIL')
