@@ -13,3 +13,8 @@ if valor < 18:
 elif valor == 18:
     print('Voce tem de se alistar IMEDIATAMENTE')
     print('Voce tem agora {} anos de idade' .format(valor))
+else:
+    print('O seu alistamento ja passou')
+    print('Voce tem agora {} anos de idade' .format(valor))
+    idade = valor - 18
+    print('O seu alistamento deveria ser em {}' .format(ano_actual - idade))
