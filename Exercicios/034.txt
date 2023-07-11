@@ -1,0 +1,3 @@
+Escreva um programa para aprovar o emprestimo bancario para a compra de uma casa. Pergunte o valor da casa, o salario do comprador e em quantos anos ele vai pagar.
+
+A prestacao mensal, nao pode exceder do salario ou entao o emprestimo sera negado
