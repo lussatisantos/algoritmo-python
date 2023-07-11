@@ -7,5 +7,6 @@ valor = ano_actual - ano_nascimento
 
 if valor < 18:
     print('Voce nao esta idade de se alistar')
+    print('Voce tem apenas {} anos de idade' .format(valor))
     idade = 18 - valor
     print('O seu alistamento sera em {}' .format(ano_actual + idade))
