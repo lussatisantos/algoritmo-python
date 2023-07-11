@@ -12,3 +12,5 @@ if convert == 1:
     print('{} convertido em BINARIO sera {}' .format(num, bin(num)))
 elif convert == 2:
     print('{} convertido em OCTAL sera {}' .format(num, oct(num)))
+elif convert == 3:
+    print('{} convertido em HEXADECIMAL sera {}' .format(num, hex(num)))
