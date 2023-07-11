@@ -17,3 +17,6 @@ elif valor <= 19:
 elif valor <= 25:
     print('O atleta tem {} anos' .format(valor))
     print('Classificacao: SENIOR')
+else:
+    print('O atleta tem {} anos' .format(valor))
+    print('Classificacao: MASTER')
