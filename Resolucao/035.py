@@ -14,3 +14,5 @@ elif convert == 2:
     print('{} convertido em OCTAL sera {}' .format(num, oct(num)))
 elif convert == 3:
     print('{} convertido em HEXADECIMAL sera {}' .format(num, hex(num)))
+else:
+    print('ERRO, tente novamente!')
