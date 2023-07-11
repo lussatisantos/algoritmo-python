@@ -10,3 +10,6 @@ if valor < 18:
     print('Voce tem apenas {} anos de idade' .format(valor))
     idade = 18 - valor
     print('O seu alistamento sera em {}' .format(ano_actual + idade))
+elif valor == 18:
+    print('Voce tem de se alistar IMEDIATAMENTE')
+    print('Voce tem agora {} anos de idade' .format(valor))
