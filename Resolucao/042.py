@@ -19,3 +19,12 @@ elif receb == 2:
         print('O seu pagamento final sera {} Kz' .format(valor))
 elif receb == 3:
       print('O seu pagamento final sera {} Kz' .format(pago))
+elif receb == 4:
+      parcelas = int(input('Quantas parcelas: '))
+      if parcelas >= 3:
+            valor = (pago / parcelas) + ((pago + 0.2) / parcelas)
+            total = pago + (pago * 0.2)
+
+            print('Voce tera juro de 20% por {} parcelas' .format(parcelas))
+            print('O seu pagamento por parcela sera {} Kz e o pagamento final de {} Kz' .format(valor, total))
+      
