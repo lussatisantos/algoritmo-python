@@ -12,3 +12,7 @@ elif imc <= 25:
 elif imc <= 30:
     print('O seu IMC e {}' .format(imc))
     print('Voce esta com SOBREPESO, aproveite fazer EXERCICIOS')
+elif imc <= 40:
+    print('O seu IMC e {}' .format(imc))
+    print('Voce tem OBESIDADE, Cuidado!!!')
+    print('Contacte um Personal Trainer ou va a um ginasio')
