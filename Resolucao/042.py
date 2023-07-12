@@ -27,4 +27,6 @@ elif receb == 4:
 
             print('Voce tera juro de 20% por {} parcelas' .format(parcelas))
             print('O seu pagamento por parcela sera {} Kz e o pagamento final de {} Kz' .format(valor, total))
-      
+      else:
+            print('Parcela invalida, apenas valido pra 3 ou mais parcela')
+            
