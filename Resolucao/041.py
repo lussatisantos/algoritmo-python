@@ -16,3 +16,6 @@ elif imc <= 40:
     print('O seu IMC e {}' .format(imc))
     print('Voce tem OBESIDADE, Cuidado!!!')
     print('Contacte um Personal Trainer ou va a um ginasio')
+else:
+    print('O seu IMC e {}' .format(imc))
+    print('Voce tem OBESIDADE MORBIDA, contacte um Medico para uma assistencia')
