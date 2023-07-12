@@ -9,3 +9,7 @@ print('''Qual e a forma de pagamento:
 
 receb = int(input('Qual opcao: '))
 
+if receb == 1:
+    valor = pago - (pago * 0.1)
+    print('Voce teve 10% de desconto por dinheiro/cheque')
+    print('O seu pagamento final sera {} Kz' .format(valor))
