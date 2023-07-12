@@ -29,4 +29,12 @@ elif receb == 4:
             print('O seu pagamento por parcela sera {} Kz e o pagamento final de {} Kz' .format(valor, total))
       else:
             print('Parcela invalida, apenas valido pra 3 ou mais parcela')
-            
+            voltar = int(input('[0] Para repetir o numero de parcelas: '))
+            if voltar == 0:
+                   parcelas = int(input('Quantas parcelas: '))
+      if parcelas >= 3:
+            valor = (pago / parcelas) + ((pago + 0.2) / parcelas)
+            total = pago + (pago * 0.2)
+
+            print('Voce tera juro de 20% por {} parcelas' .format(parcelas))
+            print('O seu pagamento por parcela sera {} Kz e o pagamento final de {} Kz' .format(valor, total))
