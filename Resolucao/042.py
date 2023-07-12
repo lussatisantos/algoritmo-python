@@ -17,3 +17,5 @@ elif receb == 2:
         valor = pago - (pago * 0.05)
         print('Voce teve 5% de desconto por Cartao')
         print('O seu pagamento final sera {} Kz' .format(valor))
+elif receb == 3:
+      print('O seu pagamento final sera {} Kz' .format(pago))
