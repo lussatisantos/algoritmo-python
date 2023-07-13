@@ -1,0 +1,3 @@
+Mostre a tabuada de um numero que o usuario escolher.
+
+v2, encontre a v1 no exercicio e resolucao 008
