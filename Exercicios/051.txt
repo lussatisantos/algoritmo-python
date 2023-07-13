@@ -1,1 +1,7 @@
 Crie um programa que leia uma frase qualquer e diga se ela e um palindromo, desconsiderando os espacos
+
+Ex: Apos a sopa
+    A sacada da casa
+    A torre da derrota
+    O lobo ama o bolo
+    Anotaram a data da maratona
