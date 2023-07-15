@@ -1,0 +1,9 @@
+Crie um programa que leia dois valores e mostre um menu.
+
+Seu programa devera realizar a operacao solicitada em cada caso.
+
+    [1] somar
+    [2] Multiplicar
+    [3] Maior
+    [4] Novos numeros
+    [5] Sair do programa
