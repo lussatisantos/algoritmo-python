@@ -1,0 +1,1 @@
+Melhore o exercicio 26, onde o computador vai pensar 'pensar' em um numero entre 0 e 10. So que agora o jogador vai tentar adivinhar ate acertar, mostrando no final quantos palpites foram necessarios para vencer
