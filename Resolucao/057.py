@@ -30,3 +30,7 @@ while opcao != 5:
     elif opcao == 4:
         numero1 = int(input('Digite um numero: '))
         numero2 = int(input('Digite outro numero: '))
+    elif opcao == 5:
+        print('Finalizando...')
+        sleep(2)
+print('Programa terminado com sucesso!')
