@@ -12,6 +12,11 @@ while adivinha != num:
     num = int(input('Voce perdeu, tente novamente: '))
     soma += 1
 
+    if adivinha > num:
+        print('Mais... Eu pensei um numero maior')
+    else:
+        print('Menos... Eu pensei um numero menor')
+
 
 print('Parabens voce acertou eu pensei em {} e voce em {}' .format(adivinha, num))
 print('Voce precisou de {} palpites para acertar' .format(soma))
