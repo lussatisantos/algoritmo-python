@@ -15,4 +15,6 @@ while opcao != 5:
         ''')
     opcao = int(input('O que desejas: '))
 
-    
+    if opcao == 1:
+        soma = numero1 + numero2
+        print
