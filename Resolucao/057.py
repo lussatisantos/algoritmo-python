@@ -20,4 +20,7 @@ while opcao != 5:
         soma = numero1 + numero2
         sleep(1)
         print ('A soma de {} e {} e igual a {}' .format(numero1, numero2, soma))
-        
+    elif opcao == 2:
+        mult = numero1 * numero2
+        sleep(1)
+        print('A multiplicacao de {} e {} e igual a {}' .format(numero1, numero2, mult))
