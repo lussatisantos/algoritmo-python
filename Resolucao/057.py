@@ -24,3 +24,9 @@ while opcao != 5:
         mult = numero1 * numero2
         sleep(1)
         print('A multiplicacao de {} e {} e igual a {}' .format(numero1, numero2, mult))
+    elif opcao == 3:
+        if numero1 > numero2:
+            sleep(1)
+            print('Entre {} e {}, o MAIOR e {}' .format(numero1, numero2, numero1))
+        else:
+            print('Entre {} e {}, o MAIOR e {}' .format(numero1, numero2, numero2))
