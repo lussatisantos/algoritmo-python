@@ -1,9 +1,10 @@
-n = s = 0
+n = s = cont = 0
 while True:
-    n = int(input('Digite um numero: '))
+    n = int(input('Digite um numero [999 para parar]: '))
     if n == 999:
         break
+    cont += 1
     s += n
-#print('A soma vale {}' .format(s))
 
-print(f'A soma vale {s}')
+
+print(f'Voce digitou {cont} numeros e a soma vale {s}')
