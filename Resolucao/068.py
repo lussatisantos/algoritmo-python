@@ -1,1 +1,0 @@
-valor = int(input('Quanto quer levantar? '))
