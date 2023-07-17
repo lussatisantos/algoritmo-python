@@ -7,13 +7,9 @@ while True:
     total += preco
     if preco > 10000:
         totmil += 1
-    if cont == 1:
+    if cont == 1 or preco < menor:
         menor = preco
         barato = nome
-    else:
-        if preco < menor:
-            menor = preco
-            barato = nome
     s = ' '
     while s not in 'SN':
         s = str(input('Quer continuar? [S/N] ')).strip().upper()[0]
