@@ -2,3 +2,8 @@ lista = ('zero', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito'
 
 num = int(input('Digite um numero: '))
 
+if num < 0:
+    print('Numero invalido, tente novamente entre 0 a 20')
+elif num > 20:
+    print('Numero invalido, tente novamente entre 0 a 20')
+    
