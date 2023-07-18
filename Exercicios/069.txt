@@ -4,3 +4,5 @@ Crie uma tupla preenchida com os 20 primeiros colocados da tabela do Campeonato 
     b) Os ultimos 4 colocados
     c) Os times em ordem alfabetica
     d) Em que posicao esta o time do Chapecoense
+
+    Tabela de 18 de Julho 2023
