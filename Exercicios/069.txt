@@ -1,0 +1,6 @@
+Crie uma tupla preenchida com os 20 primeiros colocados da tabela do Campeonato Brasileiro de Futebol, na ordem de colocacao. Depois mostre:
+
+    a) Os 5 primeiros
+    b) Os ultimos 4 colocados
+    c) Os times em ordem alfabetica
+    d) Em que posicao esta o time do Chapecoense
