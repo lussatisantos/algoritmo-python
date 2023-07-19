@@ -16,3 +16,8 @@ while True:
 print(f'A lista contem {len(numeros)} elementos')
 numeros.sort(reverse = True)
 print(f'A lista de ordem descrescente sera {numeros}')
+
+if 5 in numeros:
+    print('O valor 5 esta na lista')
+else:
+    print('O valor 5 nao foi encontrado na lista')
