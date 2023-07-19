@@ -1,0 +1,1 @@
+Crie um programa que leia nome e duas notas de varios launos e guarde tudo em uma lista composta. no final, mostre um boletim contendo e media de cada um e permimta que o usuario poss mostrar as notas de cada aluno individualmente
