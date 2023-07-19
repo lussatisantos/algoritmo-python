@@ -14,3 +14,5 @@ while True:
         break
 
 print(f'A lista contem {len(numeros)} elementos')
+numeros.sort(reverse = True)
+print(f'A lista de ordem descrescente sera {numeros}')
