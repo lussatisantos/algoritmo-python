@@ -1,0 +1,1 @@
+Crie um programa que vai ler varios numeros e colocar em uma lista. Depois disso, cire duas listas extras ue vao conter apenas os valores pares e os impares digitados, respectivamente. Ao final, mostre o conteudo dos tres listas geradas
