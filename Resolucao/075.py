@@ -10,8 +10,8 @@ while True:
     else:
         print('Numero NAO adicionado, valor ja se encontra no banco de dados')
     opcao = str(input('Quer continuar? [S/N]: ')).strip().upper()[0]
-
-    while opcao not in 'SN':
-        opcao = input('Tente novamente [S/N]: ')
-        if opcao == 'N':
-            break
+    if opcao == 'S':
+        print('=-'*20)
+    else:
+        break
+print(f'Voce digitou os seguintes valores {sorted(valores)}')
