@@ -8,7 +8,7 @@ jogo = {
     'jogador4': randint(1,6)
 }
 
-ranking = dict()
+ranking = []
 
 print('Valores sorteados:')
 for k, v in jogo.items():
@@ -16,4 +16,8 @@ for k, v in jogo.items():
     sleep(1)
 
 ranking = sorted(jogo.items(), key=itemgetter(1), reverse=True)
-print(ranking)
+
+print('-='*30)
+for i, v in enumerate(ranking):
+    print(f'{i+1} lugar {v[0]} com {v[1]}.')
+    sleep(1)
