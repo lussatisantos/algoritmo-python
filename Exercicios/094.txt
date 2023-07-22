@@ -1,0 +1,5 @@
+Faca um programa que tenha uma funcao chamada contador(), que tenha tres parametros: inicio, fim e passo. Seu programa tem que realizar tres contagens atraves da funcao criada
+
+    a) De 1 ate 10, de 1 em 1
+    b) De 10 ate 0, de 2 em 2
+    c) Uma contagem personalizada
