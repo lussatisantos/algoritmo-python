@@ -1,0 +1,8 @@
+Faca um programa que tenha uma funcao chamada escreval(), que receba um texto qualquer como parametro e mostre uma mensagem com tamanho adaptavel
+
+    Ex: escreval('Ola, Mundo!')
+
+    Saida:
+    ---------------
+      Ola, Mundo!
+    ---------------
