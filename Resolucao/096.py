@@ -10,7 +10,14 @@ def sorteia(lista):
         sleep(0.4)
     print('PRONTOS')
 
-#def somaPar():
+def somaPar(lista):
+    soma = 0
+    for valor in lista:
+        if valor % 2 == 0:
+            soma += valor
+    print(f'Somando os valores pares da {lista}, temos {soma}')
+
 
 numeros = list()
 sorteia(numeros)
+somaPar(numeros)
