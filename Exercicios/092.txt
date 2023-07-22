@@ -1,0 +1,1 @@
+Faca um programa que tenha uma funcao chamada area(), que receba as dimensoes de um terreno rectangular (largura e comprimento) e mostre a area do terreno
