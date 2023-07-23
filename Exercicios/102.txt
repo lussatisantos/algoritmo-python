@@ -1,0 +1,3 @@
+Faca um mini-projecto que utilize o Interactive Help do Python. O usuario vai digitar o comando e o manual vai aparecer. Quando o usuario digitar 'FIM', o programa se encerrara
+
+Att: Use cores
