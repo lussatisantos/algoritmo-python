@@ -1,4 +1,4 @@
-from moeda import dobro, metade
+from Resolucao.modulos.moeda import dobro, metade
 
 n = float(input('Digite um valor em AOA: '))
 print(f'O dobro de {n} Kz, e igual a {dobro(n)} Kz')
