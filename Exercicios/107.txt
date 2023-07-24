@@ -1,0 +1,3 @@
+Crie um codigo python que teste se o site Pudim esta acessivel pelo computador usado.
+
+    http://www.pudim.com.br
