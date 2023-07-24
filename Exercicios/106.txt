@@ -1,0 +1,1 @@
+Reescreva a funcao leiaint() feito no exercicio 100, incluindo agora a possibilidade de digitacao de um numero de tipo invalido. Aproveite e crie tambem uma funcao leiafloat() com a mesma funcionalidade
