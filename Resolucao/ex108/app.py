@@ -1,6 +1,13 @@
 from lib.interface import *
 from time import sleep
 
+arq = 'app.txt'
+
+if existe(arq):
+    print('Arquivo encontrado')
+else:
+    print('Arquivo nao encontrado')
+
 while True:
     resp = menu(['ver pessoas cadastradas', 'Cadastrar pessoas', 'Sair do sistema'])
     if resp == 1:

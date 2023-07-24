@@ -28,4 +28,22 @@ def menu(lista):
     print(linha())
     opc = leiaInt('Sua opcao: ')
     return opc
+
+
+
+
+
+
+
+
+
+
+def existe(nome):
+    try:
+        a = open(nome, 'rt')
+        a.close()
+    except FileNotFoundError:
+        return False
+    else:
+        return True
     
